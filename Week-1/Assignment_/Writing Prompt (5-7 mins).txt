@@ -1,0 +1,36 @@
+Example Writing Prompt Response
+
+My Goals for This Course
+My main goal for this course is to strengthen my foundation in astronomy while developing
+ practical skills in data analysis and scientific communication. I want to become more confident in reading scientific papers, 
+working with tools like Unix and Python, and applying computational methods to real astronomical data. Another important goal for me is 
+to produce small but meaningful research outputs that I can use as part of my learning portfolio. By the end of the course, I hope to be 
+able to read complex papers more easily, present ideas clearly to others, and connect astronomy with my background in programming and artificial
+ intelligence.
+
+Astronomy Topics That Interest Me
+I am especially fascinated by exoplanets, because they represent the possibility of discovering 
+Earth-like worlds and even signs of life beyond our solar system. I am also deeply interested in astrobiology and the question of whether life 
+can exist elsewhere, as well as the methods scientists use to search for biosignatures. Another area that excites me is black holes and dark energy,
+ because they remind us how much of the universe is still mysterious and unknown.
+ Finally, I am also curious about space missions and planetary exploration, especially
+ efforts to explore Mars and Saturn’s rings, since these projects combine science, technology, and human ambition in a very inspiring way.
+
+
+
+---
+azma Alıştırması (Türkçe Çeviri)
+
+Bu Dersteki Hedeflerim
+Bu dersteki temel hedefim, astronomi alanındaki temel bilgimi güçlendirirken aynı zamanda veri analizi ve bilimsel iletişim
+ konusunda pratik beceriler geliştirmektir. Bilimsel makaleleri okumada, Unix ve Python gibi araçlarla çalışmada ve gerçek astronomi 
+verilerine hesaplamalı yöntemler uygulamada kendimi daha özgüvenli hale getirmek istiyorum. Benim için bir diğer önemli hedef,
+ öğrenme portföyümün parçası olabilecek küçük ama anlamlı araştırma çıktıları üretmektir. Dersin sonunda, karmaşık makaleleri daha kolay okuyabilmeyi,
+ fikirleri başkalarına net bir şekilde sunabilmeyi ve astronomiyi programlama ve yapay zekâdaki geçmişimle ilişkilendirebilmeyi umuyorum.
+
+İlgimi Çeken Astronomi Konuları
+Özellikle ötegezegenler beni çok cezbediyor, çünkü onlar Dünya benzeri gezegenleri ve hatta yaşam izlerini keşfetme ihtimalini temsil ediyor. 
+Ayrıca astrobioloji ve yaşamın başka yerlerde var olup olamayacağı sorusu ile bilim insanlarının biyoişaretleri ararken kullandıkları
+ yöntemler de ilgimi çekiyor. Bir diğer beni heyecanlandıran alan ise kara delikler ve karanlık enerji, çünkü evrenin ne kadarının hâlâ
+ gizemli ve bilinmez olduğunu hatırlatıyorlar. Son olarak, uzay görevleri ve gezegen keşifleri de ilgimi çekiyor, özellikle Mars ve Satürn’ün 
+halkalarını araştırma çalışmaları; çünkü bu projeler bilimi, teknolojiyi ve insanlığın hayallerini çok ilham verici bir şekilde birleştiriyor.
